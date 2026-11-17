@@ -2,7 +2,7 @@
 
 A browser-based drawing application inspired by the classic Etch-a-Sketch toy. Create pixel art by drawing on an interactive grid.
 
-**Live Demo:** [Etch-a-Sketch](https://amalk.au/etch-a-sketch/)
+## Live Demo: [Etch A Sketch](https://amalk.au/etch-a-sketch/)
 
 ## Features
 
@@ -12,6 +12,10 @@ A browser-based drawing application inspired by the classic Etch-a-Sketch toy. C
 - Clear the drawing board and start again.
 - Simple and responsive user interface.
 
+![](./docs/screenshots/set-grid-size.png)
+![](./docs/screenshots/empty-canvas.png)
+![](./docs/screenshots/canvas-draw.png)
+
 ## Tech Stack
 
 - HTML5
@@ -19,8 +23,6 @@ A browser-based drawing application inspired by the classic Etch-a-Sketch toy. C
 - JavaScript (ES6)
 
 ## Getting Started
-
-### Installation
 
 1. Clone the repository:
 
@@ -56,17 +58,11 @@ etch-a-sketch/
 └── README.md       # Project documentation
 ```
 
-## Live Demo
-
-[https://amalk.au/etch-a-sketch/](https://amalk.au/etch-a-sketch/)
-
 ## License
 
 This project is licensed under the GNU General Public License v3.0 (GPL-3.0). See the [LICENSE](LICENSE) file for details.
 
-## Author
-
-**Amal K.**
+## Author : Amal K.
 
 - GitHub: [@amalk-au](https://github.com/amalk-au)
 - Portfolio: [amalk.au](https://amalk.au)
