@@ -1,17 +1,17 @@
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
-#containerDiv{
-display:flex;
-align-items: center;
-flex-wrap: wrap;
-width: 960px;
-height: 960px;
+#containerDiv {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 960px;
+  height: 960px;
 }
 
-.gridDivs{
-    border:1px solid black;
-    margin:0px;
-    background-color: greenyellow;
+.gridDivs {
+  border: 1px solid black;
+  margin: 0px;
+  background-color: greenyellow;
 }
